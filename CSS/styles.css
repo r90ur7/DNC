@@ -1,0 +1,27 @@
+.h1{
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.allDivs{
+    border: 3PX SOLID black;
+    border-radius: 10px;
+    text-align: center;
+}
+#div1{
+    background-color: #f5f5db;
+    width: 400px;
+    height: 400px;
+    color:rgb(13, 64, 247)
+}
+#div2{
+    background-color: #ca2c2c;
+    width: 400px;
+    height: 400px;
+    color:rgb(5, 20, 74)
+}
+#div3{
+    background-color: #17ea45;
+    width: 400px;
+    height: 400px;
+    color:rgb(65, 146, 119)
+}
